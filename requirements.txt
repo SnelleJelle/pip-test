@@ -1,0 +1,7 @@
+jelledoesnotexist
+google-api-python-client
+BigQuery-Python
+gspread
+requests
+requirements-parser
+requests_cache
